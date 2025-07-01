@@ -1,12 +1,12 @@
 #heading{
 	font-size:20px;
-	text-color:white;
+	text-color:rgb(255, 255, 255);
 	text-decoration:underline;
 }
 .main{
 	width:200px;
-	background-color:purple;
-	border-left-color:green;
+	background-color:rgb(128, 0, 128);
+	border-left-color:rgb(0, 128, 0);
 	border-left-width:5px;
 	padding:10px;
 }
